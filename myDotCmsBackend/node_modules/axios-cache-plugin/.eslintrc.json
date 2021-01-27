@@ -1,0 +1,4 @@
+{
+    "extends": "wdfe",
+    "parser": "babel-eslint"
+}
